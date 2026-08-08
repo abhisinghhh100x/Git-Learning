@@ -14,6 +14,9 @@ console.log(upi);
 
 console.log("Latest update on 9:12 minutes");
 
+// I am fixing bugs
+console.log("Bug fixed");
+
 
 
 
