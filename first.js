@@ -12,6 +12,8 @@ console.log(payment);
 const upi = "integreted the UPI";
 console.log(upi);
 
+console.log("Latest update on 9:12 minutes");
+
 
 
 
